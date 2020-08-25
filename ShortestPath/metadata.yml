@@ -1,0 +1,12 @@
+---
+:id: 18572535
+:submitters:
+- :name: Jiahe Liu
+  :email: jil061@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-06-04 02:33:10.835235000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-06-03 19:33:10.835235000 Z
+:status: processed
+:score: 84.0
